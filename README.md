@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandra34
+- 👋 Hi, I am Gunda Chandra Mouli
 - 👀 I’m interested in Machine Learning and Artificial Intelligence. I am passionate about exploring and applying AI techniques too solve real-world problems.
 - 🌱 I’m currently learning Deep Learning algorithms and techniques to enchance my skills and stay up to date with latest developments in the field.
 - 💞️ I’m looking to collaborate on exiting machine learning projects or AI research initiatives.
